@@ -1,5 +1,5 @@
 {
-  "name": "@todesktop/robotjs-prebuild",
+  "name": "@123Spork/robotjs-prebuild",
   "version": "0.6.27",
   "description": "Node.js Desktop Automation.",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ToDesktop/robotjs-prebuild.git"
+    "url": "https://github.com/123Spork/robotjs-prebuild.git"
   },
   "keywords": [
     "Automation",
@@ -49,7 +49,7 @@
     "@todesktop/node-gyp-build": "^4.8.7",
     "cross-zip": "^4.0.0",
     "node-addon-api": "^5.0.0",
-    "prebuildify": "^5.0.1"
+    "prebuildify": "6.0.1"
   },
   "devDependencies": {
     "@electron/rebuild": "^3.6.0",
